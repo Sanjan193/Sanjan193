@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 About Me
-- 🤖 Interested in Machine Learning & Web Development
+- 🤖 Interested in Machine Learning 
 - 🎨 Also love art and creativity!
 - 🌱 Currently learning: ML Basics and Deep learning 
 - 💡 Goal: Build AI solutions that help in education & society
-
+- Currently working on Lung cancer detection model(by using Ml Classifiers)
 ---
 
 ### 🛠️ Tech Stack & Tools
