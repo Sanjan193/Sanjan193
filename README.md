@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanjan</h1>
-<h3 align="center">Machine Learning Enthusiast | IT Student | Beginner Developer</h3>
+<h3 align="center">Machine Learning Enthusiast | IT Student</h3>
 
 ---
 
