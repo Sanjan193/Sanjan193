@@ -44,11 +44,5 @@ Python, Scikit-Learn, Pandas, NumPy, Matplotlib, Git, GitHub, HTML, CSS,C
 
 ---
 
-### 📈 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" alt="stats" />
-</p>
-
----
 
 ⭐️ From [Sanjan193](https://github.com/Sanjan193)
