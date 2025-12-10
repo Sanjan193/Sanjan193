@@ -8,7 +8,7 @@
 - 🎨 Also love art and creativity!
 - 🌱 Currently learning: ML Basics and Deep learning 
 - 💡 Goal: Build AI solutions that help in education & society
-- Currently working on Lung cancer detection model(by using Ml Classifiers)
+- Currently working on Lung cancer detection model(by using ML Classifiers)
 ---
 
 ### 🛠️ Tech Stack & Tools
