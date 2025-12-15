@@ -33,7 +33,7 @@
 ---
 
 ### 🛠️ Languages & Tools:
-Python, Scikit-Learn, Pandas, NumPy, Matplotlib, Git, GitHub, HTML, CSS,C
+Python, Scikit-Learn, Pandas, NumPy, Matplotlib, Git,C
 
 ---
 
